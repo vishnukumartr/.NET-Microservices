@@ -3,3 +3,6 @@
 ################################################################################
 
 /PlatformService/.vs
+/CommandsService/.vs
+/CommandsService/bin/Debug/net8.0
+/PlatformService/bin/Debug/net8.0
